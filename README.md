@@ -4,8 +4,8 @@
 Este é um projeto simples de temporizador que incorpora HTML, CSS e JavaScript para fins educacionais.
 
 ## Tecnologias Utilizadas
-HTML: estrutura da página web.
-CSS: design e estilos para uma apresentação visual atraente.
+HTML: estrutura da página web.<br>
+CSS: design e estilos para uma apresentação visual atraente.<br>
 JavaScript: lógica do temporizador e interações na página.
 
 ## Uso
